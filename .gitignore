@@ -14,8 +14,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Reports
-reports/
+# Reports (generated output only, not src/reports/ source code)
+/reports/
 *.csv
 *.json
 *.html
